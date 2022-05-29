@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/KuDo-DT">
-	<img src="https://user-images.githubusercontent.com/chan.png" width = "200" alt="DT">
+	<img src="https:/assets/images/chan.png" width = "200" alt="DT">
 	</a>
 </p>
 
