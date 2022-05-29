@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/KuDo-DT">
-	<img src="https://nhacchuonghinhnen.com/wp-content/uploads/2020/04/bst-hinh-nen-anime-nam-dep-nhat-cho-dien-thoai-18.jpg-" width = "200" alt="DT">
+	<img src="https://avatars.githubusercontent.com/u/BBB" width = "200" alt="DT">
 	</a>
 </p>
 
