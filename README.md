@@ -20,7 +20,7 @@ namespace DT
             string Gender = "Male";
             string Address = "Đà Nẵng, Việt Nam";
             string University = "Trường Đại học Đông Á - UDA";
-            string Skills = " Java, Python, HTML, JavaScript";
+            string Skills = " React,Python, HTML, JavaScript";
             string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
     }
