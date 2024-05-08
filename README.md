@@ -16,7 +16,7 @@
 
 🌍 I'm based in Viet Nam
 
-⚡**I’m a software engineer who can code all day without getting tired. In the past year, I have been very focused on learning web programming. I am very confident that my abilities can meet your requirements.**
+⚡**I am a software intern. This is my motto, to motivate me every time I fix a bug in the code: "If at first you don't succeed, call it version 1.0"**
 
  </div>
 
