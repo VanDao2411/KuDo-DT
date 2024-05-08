@@ -7,7 +7,6 @@
 </p>
 
 <h2 align="center">About me</h2>
-![Cao Nam's Picture](caonam.png)
 
 <div align="center">
 
@@ -39,9 +38,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,dart" /><br>
-   <img src="https://skillicons.dev/icons?i=react,next,redux,styledcomponents,sass,mui,tailwind,bootstrap" /><br>
-   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase,xd,ps,ai,pr,ae" /><br>
+  <img src="https://skillicons.dev/icons?i=js,py,dart" /><br>
+   <img src="https://skillicons.dev/icons?i=react,styledcomponents,sass,tailwind,bootstrap" /><br>
+   <img src="https://skillicons.dev/icons?i=express,mysql,firebase,figma," /><br>
 </div>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
@@ -57,14 +56,6 @@
 	
   <a href="https://github.com/KuDo-DT">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
-  </a>
-  
-  <a href="https://dev.to/ngoctientnt">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
-  </a>
-	
-  <a href="https://www.linkedin.com/in/ngoctientnt/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
   <a href="mailto:doanvandao2411@gmail.com">
